@@ -21,7 +21,7 @@ This repository contains the backend code for the Chai YouTube project.
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/chai-youtube-backend.git
+git clone https://github.com/PrajwalSiwakoti/chai-youtube-backend.git
 cd chai-youtube-backend
 npm install
 ```
